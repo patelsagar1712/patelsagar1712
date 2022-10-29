@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @patelsagar1712
-- 👀 I’m interested in JAVA 
+- 👋 Hi, I’m Sagar
+- 👀 I’m in love with JAVA 
 - 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : patel.sagar171296@gmail.com
 <!---
 patelsagar1712/patelsagar1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
